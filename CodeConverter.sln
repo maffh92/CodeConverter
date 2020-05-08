@@ -33,6 +33,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeConv", "CommandLine\Cod
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "CodeConv.Shared", "CommandLine\CodeConv.Shared\CodeConv.Shared.shproj", "{D3A957FF-DAFC-4265-9AE2-D94F6473411A}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "CommandLine\ConsoleApp1\ConsoleApp1.csproj", "{FA5E28C8-5E0F-4268-A565-EF62FC98B31F}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		CommandLine\CodeConv.Shared\CodeConv.Shared.projitems*{160f0b34-0f6f-4532-8d7b-39064956364d}*SharedItemsImports = 5
@@ -68,6 +70,10 @@ Global
 		{160F0B34-0F6F-4532-8D7B-39064956364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{160F0B34-0F6F-4532-8D7B-39064956364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{160F0B34-0F6F-4532-8D7B-39064956364D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5E28C8-5E0F-4268-A565-EF62FC98B31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5E28C8-5E0F-4268-A565-EF62FC98B31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5E28C8-5E0F-4268-A565-EF62FC98B31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5E28C8-5E0F-4268-A565-EF62FC98B31F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +82,7 @@ Global
 		{CF18CBCF-67FF-46CA-8D1D-3221B7706D7D} = {926D43FE-D6AE-45E7-A933-8A0F866E7876}
 		{160F0B34-0F6F-4532-8D7B-39064956364D} = {926D43FE-D6AE-45E7-A933-8A0F866E7876}
 		{D3A957FF-DAFC-4265-9AE2-D94F6473411A} = {926D43FE-D6AE-45E7-A933-8A0F866E7876}
+		{FA5E28C8-5E0F-4268-A565-EF62FC98B31F} = {926D43FE-D6AE-45E7-A933-8A0F866E7876}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B87DD8E0-BF04-46F6-A98F-76F93AFD2988}
